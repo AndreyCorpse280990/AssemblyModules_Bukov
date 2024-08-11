@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyModules_Bukov", "AssemblyModules_Bukov.csproj", "{0FD9DD69-1F50-4542-87EF-42EB19B22633}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryTest", "LibraryTest\LibraryTest.csproj", "{FF1147D4-1D0C-4BFF-AC5D-30CED314DF1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0FD9DD69-1F50-4542-87EF-42EB19B22633}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FD9DD69-1F50-4542-87EF-42EB19B22633}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FD9DD69-1F50-4542-87EF-42EB19B22633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF1147D4-1D0C-4BFF-AC5D-30CED314DF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF1147D4-1D0C-4BFF-AC5D-30CED314DF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF1147D4-1D0C-4BFF-AC5D-30CED314DF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF1147D4-1D0C-4BFF-AC5D-30CED314DF1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
